@@ -1,0 +1,5 @@
+librosa
+logzero
+pandas
+pydub
+tabulate
